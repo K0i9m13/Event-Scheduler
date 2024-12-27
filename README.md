@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aiden Kim 
-- 👀 I’m interested in Ui/UX design and cybersecurity
+- 👀 I’m interested in UI/UX design and cybersecurity
 - 🌱 I’m currently learning C+++, javascript, and python
 - 📫 How to reach me aidenjk2003@gmail.com
 - 😄 Pronouns: he/him
