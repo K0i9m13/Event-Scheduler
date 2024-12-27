@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiden Kim 
 - 👀 I’m interested in Ui/UX design and cybersecurity
-- 🌱 I’m currently learning C+, javascript, and python
+- 🌱 I’m currently learning C+++, javascript, and python
 - 📫 How to reach me aidenjk2003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play tennis for the varsity tennis team at Haverford College
